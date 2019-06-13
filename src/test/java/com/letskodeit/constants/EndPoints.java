@@ -5,5 +5,5 @@ public class EndPoints {
 	public static final String STATUSES_TWEET_POST = "/update.json";
 	public static final String STATUSES_TWEET_READ_SINGLE = "/show.json";
 	public static final String STATUSES_TWEET_DESTROY = "/destroy/{id}.json";
-public static final String STATUSES_TWEET_DESTROY222 = "/destroy/{id}.json";
+public static final String STATUSES_TWEET_DESTROY345 = "/destroy/{id}.json";
 }
